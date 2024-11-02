@@ -2,7 +2,8 @@
 
 A SwiftUI modifier that adds a draggable popover to any view, allowing the popover to stick to the corners of the parent view, similar to the Picture-in-Picture (PiP) behavior in iOS. The popover can be moved around the screen by dragging and snaps to the nearest corner when released. Works well on iPad.
 
-https://github.com/user-attachments/assets/4de4cb43-5c36-49ec-9db6-0a1a0d25ff32
+https://github.com/user-attachments/assets/3eb3921d-bc9f-4515-a832-b2563016d787
+
 
 ![Portrait demo](https://github.com/user-attachments/assets/c8bfa334-b55a-4968-830c-27e4ba494e65)
 
