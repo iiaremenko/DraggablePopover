@@ -22,13 +22,6 @@ A SwiftUI modifier that adds a draggable popover to any view, allowing the popov
 
 To use the `popoverDraggable` modifier, simply attach it to any SwiftUI view you want to display a popover from.
 
-![Portrait](https://github.com/user-attachments/assets/13252b77-2d9d-464d-83c1-7bc249e51c55)
-
-
-![Landscape](https://github.com/user-attachments/assets/3d224251-2899-4c44-88a1-3601d2469f9e)
-
-
-
 ### Example
 
 ```swift
