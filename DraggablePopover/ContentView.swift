@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     @State var isPresented: Bool = true
-    @State var popoverAlignment = Alignment(horizontal: .leading, vertical: .top)
+    @State var popoverAlignment = Alignment.topLeading
 
     var body: some View {
         // Test if only isPresented changed, bit not @identity
